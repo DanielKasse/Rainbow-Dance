@@ -3,3 +3,4 @@ step left
 jump up and down
 jump up and down
 dance the rainbow dance
+twirl you hands
